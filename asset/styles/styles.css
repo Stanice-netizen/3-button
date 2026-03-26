@@ -6,9 +6,46 @@ body {
     text-align: center;
     align-items: center;
     height: 80vh;
-    background-color: #756969;
+    background-color: #181415;
 }
 
 * {
     box-sizing: border-box;
 }
+*
+button {
+    background-color: #160e12
+    color(#fff);
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 20px;
+    min-width: 300px;
+    border-radius: 80px;
+}
+
+ .btn1 {
+    background-color:#c452db;
+    color: #000;
+ }
+
+ .btn2 {
+    background-color: #36b154;
+    color: #fff;
+ }
+ 
+ .btn3 {
+    background-color: #4114aa;
+    color: #fff;
+ }
+
+ .btn {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 200px;
+    gap: 3rem;
+ }
+ 
