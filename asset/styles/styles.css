@@ -39,6 +39,11 @@ button {
   color: #fff;
 }
 
+.btn4 {
+  background-color: #e46b1a;
+  color: #fff;
+}
+
 .btn {
   display: flex;
   text-align: center;
