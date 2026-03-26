@@ -27,17 +27,17 @@ button {
 .btn1 {
   background-color: #c452db;
   color: #000;
- }
+}
 
 .btn2 {
   background-color: #36b154;
   color: #fff;
- }
- 
+}
+
 .btn3 {
   background-color: #4114aa;
   color: #fff;
- }
+}
 
 .btn {
   display: flex;
@@ -47,5 +47,5 @@ button {
   justify-content: center;
   margin: 200px;
   gap: 3rem;
- }
- 
+}
+
