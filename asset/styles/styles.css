@@ -9,11 +9,10 @@ body {
   background-color: #181415;
 }
 
-*{
+* {
   box-sizing: border-box;
 }
 
-*
 button {
   background-color: #160e12;
   color: #fff;
@@ -25,22 +24,22 @@ button {
   border-radius: 80px;
 }
 
- .btn1 {
-  background-color:#c452db;
+.btn1 {
+  background-color: #c452db;
   color: #000;
  }
 
- .btn2 {
+.btn2 {
   background-color: #36b154;
   color: #fff;
  }
  
- .btn3 {
+.btn3 {
   background-color: #4114aa;
   color: #fff;
  }
 
- .btn {
+.btn {
   display: flex;
   text-align: center;
   align-items: center;
