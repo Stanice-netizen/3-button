@@ -16,7 +16,7 @@ body {
 *
 button {
   background-color: #160e12;
-  color(#fff);
+  color: #fff;
   border: none;
   cursor: pointer;
   text-align: center;
